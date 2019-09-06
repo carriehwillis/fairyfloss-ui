@@ -1,7 +1,7 @@
 {
   "name": "fairyfloss-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "atom ui theme to go with fairyfloss syntax theme by @sailorhg",
   "keywords": [
     "ui",
