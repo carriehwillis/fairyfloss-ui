@@ -1,13 +1,15 @@
 {
   "name": "fairyfloss-ui",
   "theme": "ui",
-  "version": "0.0.1",
-  "description": "ui theme to go with fairyfloss syntax theme by @sailorhg",
+  "version": "0.0.0",
+  "description": "atom ui theme to go with fairyfloss syntax theme by @sailorhg",
   "keywords": [
     "ui",
     "theme",
     "pastel",
-    "cute"
+    "cute",
+    "purple",
+    "pink"
   ],
   "repository": "https://github.com/carriehwillis/fairyfloss-ui",
   "license": "MIT",
